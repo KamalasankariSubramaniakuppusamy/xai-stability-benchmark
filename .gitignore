@@ -1,0 +1,3 @@
+.DS_Store
+echo "results/" >> .gitignore
+echo "xai-stability-data/" >> .gitignore
