@@ -29,14 +29,19 @@ Dataset collection notebooks are provided in `Collect Datasets Notebooks/`, and 
 ```
 xai-stability-benchmark/
 │
-├── Collect Datasets Notebooks/   # Scripts for downloading and preparing datasets
-├── Notebooks/                    # Main experiment notebooks (XAI evaluation pipelines)
-├── dataset_statistics/           # Summary statistics and distribution analyses
-├── datasets/                     # Processed dataset files
-├── logs/                         # Experiment run logs
-├── metadata/                     # Dataset and model metadata
-├── paper_figures/                # Figures generated for the paper
-└── results/                      # Raw and aggregated benchmark results
+├── Collect Datasets Notebooks/
+├── Notebooks/
+├── dataset_statistics/
+├── datasets/
+├── logs/
+├── metadata/
+├── paper_figures/
+├── results/
+│
+├── .gitattributes
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 ---
